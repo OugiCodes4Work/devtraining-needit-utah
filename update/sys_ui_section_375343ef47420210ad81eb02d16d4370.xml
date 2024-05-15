@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="sysauto_script" section_id="375343ef47420210ad81eb02d16d4370" sys_domain="global" table="sysauto_script" version="3" view="Duplicate">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:50</sys_created_on>
+            <sys_id>49e30fef47420210ad81eb02d16d4353</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_scope</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:50</sys_created_on>
+            <sys_id>45e30fef47420210ad81eb02d16d4354</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_calendar</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>c9e30fef47420210ad81eb02d16d4354</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>41e30fef47420210ad81eb02d16d4355</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>conditional</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>c5e30fef47420210ad81eb02d16d4355</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>condition</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>05e30fef47420210ad81eb02d16d4362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>89e30fef47420210ad81eb02d16d4362</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>01e30fef47420210ad81eb02d16d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_dayofmonth</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>85e30fef47420210ad81eb02d16d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_dayofweek</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>0de30fef47420210ad81eb02d16d4363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_name</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>81e30fef47420210ad81eb02d16d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>max_drift</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>09e30fef47420210ad81eb02d16d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>8de30fef47420210ad81eb02d16d4364</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>offset</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>05e30fef47420210ad81eb02d16d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>offset_type</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>89e30fef47420210ad81eb02d16d4365</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_package</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>01e30fef47420210ad81eb02d16d4366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_policy</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>85e30fef47420210ad81eb02d16d4366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_period</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>0de30fef47420210ad81eb02d16d4366</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_type</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>81e30fef47420210ad81eb02d16d4367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_as</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>09e30fef47420210ad81eb02d16d4367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_as_tz</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>8de30fef47420210ad81eb02d16d4367</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>script</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>05e30fef47420210ad81eb02d16d4368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_start</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>89e30fef47420210ad81eb02d16d4368</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_time</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>01e30fef47420210ad81eb02d16d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>entered_time</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>85e30fef47420210ad81eb02d16d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_zone</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>0de30fef47420210ad81eb02d16d4369</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_update_name</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>81e30fef47420210ad81eb02d16d436a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>09e30fef47420210ad81eb02d16d436a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>8de30fef47420210ad81eb02d16d436a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>05e30fef47420210ad81eb02d16d436b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>upgrade_safe</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:47:51</sys_created_on>
+            <sys_id>89e30fef47420210ad81eb02d16d436b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="sysauto_script" display_value="sysauto_script" name="sysauto_script" sys_domain="global" view="bb5343ef47420210ad81eb02d16d436b">375343ef47420210ad81eb02d16d4370</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:47:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>sysauto_script</caption>
+            <header>false</header>
+            <name>sysauto_script</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-15 01:45:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>375343ef47420210ad81eb02d16d4370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysauto_script</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_375343ef47420210ad81eb02d16d4370</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-15 01:45:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Duplicate" name="Duplicate">bb5343ef47420210ad81eb02d16d436b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
